@@ -6,17 +6,17 @@ The hospital collects large volumes of patient-level and operational data spanni
 
 Insights and recommendations are provided across the following key areas:
 
--Patient Flow & Wait Time Analysis: Evaluation of wait times across departments and admission types to identify service bottlenecks and inform capacity planning.
+- Patient Flow & Wait Time Analysis: Evaluation of wait times across departments and admission types to identify service bottlenecks and inform capacity planning.
 
--Departmental Performance: Analysis of patient volumes, outcomes, and resource usage across departments to highlight high-performing units and areas needing intervention.
+- Departmental Performance: Analysis of patient volumes, outcomes, and resource usage across departments to highlight high-performing units and areas needing intervention.
 
--Financial Impact Assessment: Investigation of revenue and cost patterns by department, admission type, and patient demographics to understand profitability and funding gaps.
+- Financial Impact Assessment: Investigation of revenue and cost patterns by department, admission type, and patient demographics to understand profitability and funding gaps.
 
--Readmission & Outcome Metrics: Identification of patient cohorts with high readmission rates and suboptimal outcomes, enabling targeted quality improvement initiatives.
+- Readmission & Outcome Metrics: Identification of patient cohorts with high readmission rates and suboptimal outcomes, enabling targeted quality improvement initiatives.
 
--Staff Utilization & Resource Management: Review of staffing levels, workload distribution, and departmental efficiency to improve scheduling and reduce burnout.
+- Staff Utilization & Resource Management: Review of staffing levels, workload distribution, and departmental efficiency to improve scheduling and reduce burnout.
 
--Demographic & Seasonal Trends: Exploration of patient demographics and admission patterns over time to support service line planning and community outreach.
+- Demographic & Seasonal Trends: Exploration of patient demographics and admission patterns over time to support service line planning and community outreach.
 
 An interactive Tableau dashboard is available for dynamic exploration of trends and KPIs across departments and years.
 
